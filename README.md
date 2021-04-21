@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 我正在从事前端的开发工作。
+- 我目前正在我的博客上学习和分享，欢迎～
+  - github blog，[点击](https://github.com/chenXieGit/blog-posts)
+  - yuQue blog，[点击](https://www.yuque.com/xiechen)
+  - jueJin，[点击](https://juejin.cn/user/1451011079416919/posts)
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=chenXieGit&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 <!--
