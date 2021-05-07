@@ -5,8 +5,8 @@
 - 💡 我正在从事前端的开发工作。
 - 🔭 我目前正在我的博客上学习和分享，欢迎～
   - github blog，[点击](https://github.com/chenXieGit/blog-posts)
-  - yuQue blog，[点击](https://www.yuque.com/xiechen)
-  - jueJin，[点击](https://juejin.cn/user/1451011079416919/posts)
+  - 语雀，[点击](https://www.yuque.com/xiechen)
+  - 掘金，[点击](https://juejin.cn/user/1451011079416919/posts)
 
 <!--
 **chenXieGit/chenXieGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
