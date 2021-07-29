@@ -10,8 +10,13 @@
   - [博客地址](https://chenxiegit.github.io/)
 
   - [掘金主页](https://juejin.cn/user/1451011079416919/posts)
+  
+  - [语雀主页](https://www.yuque.com/xiechen)，主要记一些书籍和视频课程的笔记。
+
+
 
 <!--
+
 **chenXieGit/chenXieGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
