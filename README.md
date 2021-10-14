@@ -9,10 +9,11 @@
 
   - [博客地址](https://chenxiegit.github.io/)
 
+  - [github 博客](https://github.com/chenXieGit/my-blog)
+
   - [掘金主页](https://juejin.cn/user/1451011079416919/posts)
   
   - [语雀主页](https://www.yuque.com/xiechen)，主要记一些书籍和视频课程的笔记。
-
 
 
 <!--
@@ -29,4 +30,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
