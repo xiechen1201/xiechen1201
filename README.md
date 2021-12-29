@@ -13,6 +13,9 @@
   
   - [语雀主页](https://www.yuque.com/xiechen)，主要记一些学习技术的笔记。
 
+联系我：
+
+Email 📮 2501869423@qq.com
 
 <!--
 
