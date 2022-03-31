@@ -7,15 +7,17 @@
 
 🔭  我正在努力的提升自己！
 
-  - [github 博客](https://github.com/chenXieGit/my-blog)
-
   - [掘金主页](https://juejin.cn/user/1451011079416919/posts)
   
-  - [语雀主页](https://www.yuque.com/xiechen)，主要记一些学习技术的笔记。
+  - [语雀技术分享](https://www.yuque.com/xiechen)
+
+  - [GitHub 博客](https://github.com/chenXieGit/my-blog)
 
 联系我：
 
-Email 📮 2501869423@qq.com
+Email 📮 - 2501869423@qq.com
+
+WeChat 💻 - dec_chenxie
 
 <!--
 
