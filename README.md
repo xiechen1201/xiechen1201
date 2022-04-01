@@ -11,7 +11,7 @@
   
   - [语雀技术分享](https://www.yuque.com/xiechen)
 
-  - [GitHub 博客](https://github.com/chenXieGit/my-blog)
+  - [Serein 的空间](https://www.yuque.com/xiechen/tbuk25)
 
 联系我：
 
