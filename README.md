@@ -9,7 +9,7 @@
 
 -->
 
-![alejandro-acosta-O8vXQjX5iyQ-unsplash](https://user-images.githubusercontent.com/39512422/175196076-d841d3b8-1ada-4a27-a3f2-962a8177c2c3.jpg)
+![头图](https://user-images.githubusercontent.com/39512422/192101794-fcfcd30a-b6af-42b4-999b-4f8861549abc.png)
 
 ---
 
@@ -19,7 +19,7 @@
 
 你也可以在以下平台找到我：
 
-[掘金主页](https://juejin.cn/user/1451011079416919/posts)
+[掘金](https://juejin.cn/user/1451011079416919/posts)
 
 [语雀](https://www.yuque.com/xiechen)
 
@@ -33,11 +33,6 @@
 邮箱 📮 2501869423@qq.com
 
 WeChat 💬 `dec_chenxie`
-
-
-
-
-
 
 <!--
 
