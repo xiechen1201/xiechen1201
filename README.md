@@ -13,7 +13,7 @@
 
 🏡	现居 | 北京
 
-🏖️  社交 | [掘金](https://juejin.cn/user/1451011079416919/posts) | [语雀](https://www.yuque.com/xiechen) | [Serein 的空间](https://www.yuque.com/xiechen/tbuk25)
+🏖️  社交 | [Github](https://github.com/xiechen1201) | [掘金](https://juejin.cn/user/1451011079416919/posts) | [语雀](https://www.yuque.com/xiechen)
 
 <br />
 
