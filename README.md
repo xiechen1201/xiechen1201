@@ -13,6 +13,6 @@
 
 🏡	现居 | 北京
 
-🏖️  社交 | [Github](https://github.com/xiechen1201) | [掘金](https://juejin.cn/user/1451011079416919/posts) | [语雀](https://www.yuque.com/xiechen)
+🏖️  社交 | [Github](https://github.com/xiechen1201) | [Blog](https://xiechen1201.github.io/vitepress-blog/) | [语雀](https://www.yuque.com/xiechen) | [掘金](https://juejin.cn/user/1451011079416919/posts)
 
 ![My Skills](https://skillicons.dev/icons?i=github,js,html,css,vue,react,nodejs,npm)
