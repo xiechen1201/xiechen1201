@@ -7,8 +7,6 @@
 
 ---
 
-<br />
-
 > 基本信息
 
 🎩	工作 | 前端开发
@@ -17,4 +15,4 @@
 
 🏖️  社交 | [Github](https://github.com/xiechen1201) | [掘金](https://juejin.cn/user/1451011079416919/posts) | [语雀](https://www.yuque.com/xiechen)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
+![My Skills](https://skillicons.dev/icons?i=github,js,html,css,vue,react,nodejs,npm)
