@@ -17,16 +17,4 @@
 
 🏖️  社交 | [Github](https://github.com/xiechen1201) | [掘金](https://juejin.cn/user/1451011079416919/posts) | [语雀](https://www.yuque.com/xiechen)
 
-<!-- 
-<br />
-
-> 联系我
-
-📮 Email | `2501869423@qq.com`
-
-💬 WeChat | `dec_chenxie`
--->
-
-<!-- 
-<img src="https://github-readme-stats.vercel.app/api?username=xiechen1201&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
--->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
